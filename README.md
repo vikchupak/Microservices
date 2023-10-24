@@ -18,3 +18,8 @@ Orchestration uses a state machine to manage transactions (tasks).
 https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga \
 https://www.geeksforgeeks.org/saga-design-pattern \
 https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/saga.html
+
+API gateway
+
+https://highload.today/api-gateway-endpoints \
+https://habr.com/ru/articles/557004/
