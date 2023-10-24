@@ -1,5 +1,7 @@
 # Microservices
 
+history https://www.atlassian.com/microservices/microservices-architecture/microservices-vs-monolith
+
 __Saga Design Pattern__ (introduced to solve problems of managing Distributed Transactions)
 
 https://stackoverflow.com/questions/56720868/what-does-saga-stand-for
