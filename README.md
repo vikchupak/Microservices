@@ -1,6 +1,6 @@
 # Microservices
 
-__Saga Design Pattern__(for managing Distributed Transactions)
+__Saga Design Pattern__ (for managing Distributed Transactions)
 
 ACID is important.
 
