@@ -1,6 +1,6 @@
 # Microservices
 
-__Saga Design Pattern__ (for managing Distributed Transactions)
+__Saga Design Pattern__ (introduced to solve problems of managing Distributed Transactions)
 
 https://stackoverflow.com/questions/56720868/what-does-saga-stand-for
 
