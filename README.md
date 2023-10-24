@@ -10,7 +10,7 @@ Distributed Transaction - transactions performed across more than one service - 
 
 There are two common saga implementation approaches, __choreography and orchestration__.
 
-Orchestration uses a state machine to manage transactions.
+Orchestration uses a state machine to manage transactions (tasks).
 
 https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga \
 https://www.geeksforgeeks.org/saga-design-pattern \
