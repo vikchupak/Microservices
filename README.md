@@ -1,6 +1,6 @@
 # Microservices
 
-![image](https://github.com/VIK2395/Microservices/assets/50545334/179493c9-7d43-40cd-880f-58c2119750fa)
+![image](https://github.com/VIK2395/Microservices/assets/50545334/cd32dc8e-ce89-4ab0-923c-53e3c894dcc1)
 
 history\
 https://www.atlassian.com/microservices/microservices-architecture/microservices-vs-monolith
