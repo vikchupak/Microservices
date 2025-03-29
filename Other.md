@@ -18,3 +18,5 @@ API gateway
 
 https://highload.today/api-gateway-endpoints \
 https://habr.com/ru/articles/557004/
+
+![image](https://github.com/VIK2395/Microservices/assets/50545334/cd32dc8e-ce89-4ab0-923c-53e3c894dcc1)
